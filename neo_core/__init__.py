@@ -1,0 +1,1 @@
+# Vacío intencionalmente para marcar este directorio como un paquete de Python. No se requiere código adicional en este archivo.

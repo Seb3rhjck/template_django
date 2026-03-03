@@ -1,0 +1,1 @@
+# Vacío intencionalmente para permitir la creación de migraciones para la aplicación "landing". No se requiere código adicional en este archivo.
