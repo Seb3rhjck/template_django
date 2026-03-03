@@ -36,8 +36,7 @@ EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O 
 
 ### Contacto para Atribución
 Si utiliza este template y desea confirmar el formato de atribución:
-- Email: `contacto@neosimetry.dev` (ejemplo)
-- Portfolio: `https://balthier.dev` (ejemplo)
-- GitHub: `@balthier` (ejemplo)
+- Email: `soadj118@gmail.com`
+- GitHub: `@Seb3rhjck` (ejemplo)
 
 > *"El reconocimiento no es vanidad; es la huella digital del creador en el código."*0
