@@ -1,6 +1,6 @@
 ## ⚖️ Licencia y Términos de Uso
 
-### [LICENCIA NEO SIMETRY - ATRIBUCIÓN PERMISIVA v1.0]
+### [LICENCIA NEO SIMMETRY - ATRIBUCIÓN PERMISIVA v1.0]
 
 Copyright (c) 2023-2026 [Sebastian Ordoñez (Balthier)]
 
@@ -16,7 +16,7 @@ Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia
 
 Cualquier uso, distribución, modificación o derivado del Software **debe incluir**, de forma visible y accesible:
 
-1.  Una mención explícita al creador original: **"Diseño y arquitectura por Sebastian Ordoñez (Balthier) - Neo Simetry Project"**.
+1.  Una mención explícita al creador original: **"Diseño y arquitectura por Sebastian Ordoñez (Balthier) - Neo Simmetry Project"**.
 2.  Un enlace al repositorio original o perfil del autor (ej: GitHub, sitio web, portfolio).
 3.  Esta licencia completa debe acompañar cualquier distribución del Software.
 
@@ -31,12 +31,12 @@ EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O 
 ### Creador Original
 - **Nombre Legal**: Sebastian Ordoñez
 - **Alias Profesional**: Balthier
-- **Perfil Técnico**: Programador amateur, autodidacta. Creador de [LayerCSS] .lyc, soporte WordPress + Elementor, Angular TS, CLI + Firebase, Cordova básico, Linux CMD.
+- **Perfil Técnico**: Programador amateur, autodidacta. Creador de [LayerCSS] .lyc [LayerStyleBasic] .lsb, soporte WordPress + Elementor, Angular TS, CLI + Firebase, Cordova básico, Linux CMD.
 - **Filosofía**: Enfoque nihilista-científico y empático. Máxima objetividad, cero suposiciones.
 
 ### Contacto para Atribución
 Si utiliza este template y desea confirmar el formato de atribución:
 - Email: `soadj118@gmail.com`
-- GitHub: `@Seb3rhjck` (ejemplo)
+- GitHub: `@Seb3rhjck`
 
 > *"El reconocimiento no es vanidad; es la huella digital del creador en el código."*0
